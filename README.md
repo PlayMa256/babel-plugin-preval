@@ -1,3 +1,4 @@
+
 <div align="center">
 <h1>babel-plugin-preval</h1>
 
@@ -97,8 +98,8 @@ See more below.
 - [Limitations](#limitations)
   - [Code transpilation](#code-transpilation)
 - [FAQ](#faq)
-  - [How is this different from [prepack][prepack]?](#how-is-this-different-from-prepackprepack)
-  - [How is this different from [webpack][webpack] [loaders][webpack-loaders]?](#how-is-this-different-from-webpackwebpack-loaderswebpack-loaders)
+  - [How is this different from prepack?](#how-is-this-different-from-prepackprepack)
+  - [How is this different from webpack loaders?](#how-is-this-different-from-webpackwebpack-loaderswebpack-loaders)
 - [Inspiration](#inspiration)
 - [Related Projects](#related-projects)
 - [Other Solutions](#other-solutions)
